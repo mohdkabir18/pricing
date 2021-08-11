@@ -1,0 +1,111 @@
+.btn {
+  background: #1e1fcd;
+  background-image: -webkit-linear-gradient(top, #1e1fcd, #1e1fcd);
+  background-image: -moz-linear-gradient(top, #1e1fcd, #1e1fcd);
+  background-image: -ms-linear-gradient(top, #1e1fcd, #1e1fcd);
+  background-image: -o-linear-gradient(top, #1e1fcd, #1e1fcd);
+  background-image: linear-gradient(to bottom, #1e1fcd, #1e1fcd);
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #4d98c7;
+  text-decoration: none;
+}
+
+body {
+  background-color: #e0e8ff;
+}
+
+.land {
+  margin: 1.2rem auto 0.8rem auto;
+  height: 600px;
+  width: 370px;
+  background-color: #f5f7ff;
+  border-radius: 25px;
+}
+
+.musicimg {
+  width: 370px;
+  height: 33%;
+  border-radius: 25px 25px 0 0;
+}
+
+.order {
+  font-family: "Montserrat", sans-serif;
+  color: #1f2f56;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.content {
+  text-align: center;
+  color: #7a80a7;
+  font-family: "Montserrat", sans-serif;
+  width: 80%;
+  position: relative;
+  left: 33px;
+}
+
+.price {
+  margin: 1px;
+  position: relative;
+  bottom: 20px;
+  left: 100px;
+  font-family: "Montserrat", sans-serif;
+  color: #7A80A7;
+}
+
+.changebtn {
+  position: relative;
+  left: 267px;
+  bottom: 54px;
+  font-family: "Montserrat", sans-serif;
+  color: #350b83;
+  font-size: 15px;
+}
+
+.middle {
+  position: absolute;
+}
+
+.btn {
+  position: absolute;
+  left: 610px;
+  bottom: 180px;
+  width: 250px;
+  text-align: center;
+}
+
+.cancel {
+  position: absolute;
+  bottom: 140px;
+  text-decoration: none;
+  left: 700px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.plan {
+  position: relative;
+  left: 100px;
+  bottom: 7px;
+}
+
+.musicbtn {
+  position: absolute;
+  bottom: 38px;
+  left: 30px;
+}
+
+.attribution {
+    position: absolute;
+    bottom: 55px;
+    left: 610px;
+}
